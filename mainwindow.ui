@@ -408,10 +408,6 @@
    <addaction name="actionCutEllipse"/>
   </widget>
   <action name="actionSave">
-   <property name="icon">
-    <iconset resource="src.qrc">
-     <normaloff>:/images/fotoefeitos.com_ (1).jpg</normaloff>:/images/fotoefeitos.com_ (1).jpg</iconset>
-   </property>
    <property name="text">
     <string>Save</string>
    </property>
